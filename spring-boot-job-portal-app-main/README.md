@@ -112,7 +112,7 @@ job-portal-frontend/
 ### 📌 Prerequisites
 Ensure you have the following installed:
 - **Java 17+**
-- **Node.js & npm**
+- **SpringBoot**
 - **MongoDB installed locally or access to MongoDB Atlas**
 
 ### 🔽 Backend Setup
@@ -221,15 +221,6 @@ Contributions are welcome! Please open an issue first to discuss what you would 
 3. Commit your changes (`git commit -m 'Add some new Features'`)
 4. Push to the branch (`git push origin feature/NewFeature`)
 5. Open a Pull Request
-
----
-
-## 🏆 Author
-**Mahmud Alam**  
-- 🌍 Portfolio: [Mahmud Alam](https://mahmudalam.com/)  
-- 📧 Email: mahmudalam.official@gmail.com  
-- 🔗 **GitHub:** [GitHub](https://github.com/Mahmud-Alam)  
-- 🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/mahmudalamofficial/)  
 
 ---
 
